@@ -220,6 +220,8 @@ rtp://@232.84.3.84:11548
 #EXTINF:-1 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HanoiCab
 rtp://@232.84.1.55:8310
 #------------------------Địa phương (HD)------------------------#
+#EXTINF:-1 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas (HD 8.5Mbps)
+rtp://@232.84.3.218:11230
 #EXTINF:211 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD _ TH Yên Bái HD
 rtp://@232.84.3.253:11440
 #EXTINF:281 tvg-name="Hòa Bình" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ZaIE9WA.png",HBTV HD _ TH Hòa Bình HD
